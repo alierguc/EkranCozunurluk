@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\bin\Debug\EkranCozunurluk.exe.config
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\bin\Debug\EkranCozunurluk.exe
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\bin\Debug\EkranCozunurluk.pdb
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.csprojResolveAssemblyReference.cache
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.Properties.Resources.resources
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.exe
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.pdb
+C:\Users\Ali\source\repos\EkranCozunurluk\EkranCozunurluk\obj\Debug\EkranCozunurluk.Anaform.resources
